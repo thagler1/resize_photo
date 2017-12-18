@@ -1,0 +1,7 @@
+c:\users\todd\documents\visual studio 2015\Projects\resize_photo\resize_photo\bin\Debug\resize_photo.exe.config
+c:\users\todd\documents\visual studio 2015\Projects\resize_photo\resize_photo\obj\Debug\resize_photo.csprojResolveAssemblyReference.cache
+c:\users\todd\documents\visual studio 2015\Projects\resize_photo\resize_photo\bin\Debug\resize_photo.exe
+c:\users\todd\documents\visual studio 2015\Projects\resize_photo\resize_photo\bin\Debug\resize_photo.pdb
+c:\users\todd\documents\visual studio 2015\Projects\resize_photo\resize_photo\bin\Debug\System.Drawing.Primitives.dll
+c:\users\todd\documents\visual studio 2015\Projects\resize_photo\resize_photo\obj\Debug\resize_photo.exe
+c:\users\todd\documents\visual studio 2015\Projects\resize_photo\resize_photo\obj\Debug\resize_photo.pdb
